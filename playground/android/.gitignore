@@ -14,3 +14,4 @@ lint.xml
 project.properties
 assets/main.js
 gradle
+.DS_Store
